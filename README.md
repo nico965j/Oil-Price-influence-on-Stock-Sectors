@@ -1,7 +1,9 @@
 # Oil-Price-influence-on-Stock-Sectors
-Master Thesis scripts and figures.
+## Master Thesis scripts and figures.
 
-Repository Structure
+### Repository Structure:
+
+
 📁 Dataset Creation
 Notebook: Dataset Creation
 
