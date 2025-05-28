@@ -1,0 +1,16 @@
+Crisis,Sector,Kruskal p-value
+Dot-Com Bubble,Consumer Discretionary,0.663706742018225
+Dot-Com Bubble,Information Technology,0.5580002111632643
+Dot-Com Bubble,Health Care,0.47428406833084313
+Global Financial Crisis,Consumer Discretionary,0.39628592405467267
+Global Financial Crisis,Information Technology,0.022748744390205994
+Global Financial Crisis,Health Care,0.6425748051083204
+Asian Crisis & Oil Collapse,Consumer Discretionary,0.0002047531889084929
+Asian Crisis & Oil Collapse,Information Technology,0.00033128461510511126
+Asian Crisis & Oil Collapse,Health Care,0.003045321732315713
+COVID-19 Pandemic,Consumer Discretionary,0.029599652601576553
+COVID-19 Pandemic,Information Technology,0.022074277279844425
+COVID-19 Pandemic,Health Care,0.005330302254883278
+Inflation & Rate Hikes,Consumer Discretionary,0.03217733863281036
+Inflation & Rate Hikes,Information Technology,0.1633733925194077
+Inflation & Rate Hikes,Health Care,0.24818345503425157

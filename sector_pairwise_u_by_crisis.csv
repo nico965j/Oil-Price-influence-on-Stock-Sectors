@@ -1,0 +1,91 @@
+Crisis,Sector,Comparison,p-value
+Dot-Com Bubble,Consumer Discretionary,Positive Big vs. Negative Big,0.5170974278101781
+Dot-Com Bubble,Consumer Discretionary,Positive Big vs. Positive Small,0.2521960317477442
+Dot-Com Bubble,Consumer Discretionary,Positive Big vs. Negative Small,0.23142208985766655
+Dot-Com Bubble,Consumer Discretionary,Negative Big vs. Positive Small,0.7994374225858287
+Dot-Com Bubble,Consumer Discretionary,Negative Big vs. Negative Small,0.7665794503777749
+Dot-Com Bubble,Consumer Discretionary,Positive Small vs. Negative Small,0.9139024141876066
+Dot-Com Bubble,Information Technology,Positive Big vs. Negative Big,0.37268618509725404
+Dot-Com Bubble,Information Technology,Positive Big vs. Positive Small,0.8865014626748088
+Dot-Com Bubble,Information Technology,Positive Big vs. Negative Small,0.7335858929278878
+Dot-Com Bubble,Information Technology,Negative Big vs. Positive Small,0.20950098701375341
+Dot-Com Bubble,Information Technology,Negative Big vs. Negative Small,0.16821999627355433
+Dot-Com Bubble,Information Technology,Positive Small vs. Negative Small,0.8046173640675884
+Dot-Com Bubble,Health Care,Positive Big vs. Negative Big,0.756507257355092
+Dot-Com Bubble,Health Care,Positive Big vs. Positive Small,0.2521960317477442
+Dot-Com Bubble,Health Care,Positive Big vs. Negative Small,0.9348962088090145
+Dot-Com Bubble,Health Care,Negative Big vs. Positive Small,0.5475611910649076
+Dot-Com Bubble,Health Care,Negative Big vs. Negative Small,0.6706487175987199
+Dot-Com Bubble,Health Care,Positive Small vs. Negative Small,0.14406701039014957
+Global Financial Crisis,Consumer Discretionary,Positive Big vs. Negative Big,0.1403288273335371
+Global Financial Crisis,Consumer Discretionary,Positive Big vs. Positive Small,0.4940461906731316
+Global Financial Crisis,Consumer Discretionary,Positive Big vs. Negative Small,0.8195371294994946
+Global Financial Crisis,Consumer Discretionary,Negative Big vs. Positive Small,0.3647303667248448
+Global Financial Crisis,Consumer Discretionary,Negative Big vs. Negative Small,0.1375991803554691
+Global Financial Crisis,Consumer Discretionary,Positive Small vs. Negative Small,0.4163157655554761
+Global Financial Crisis,Information Technology,Positive Big vs. Negative Big,0.006326584084824171
+Global Financial Crisis,Information Technology,Positive Big vs. Positive Small,0.3236553627467973
+Global Financial Crisis,Information Technology,Positive Big vs. Negative Small,0.38482344085943054
+Global Financial Crisis,Information Technology,Negative Big vs. Positive Small,0.01668034857884021
+Global Financial Crisis,Information Technology,Negative Big vs. Negative Small,0.01244784540031295
+Global Financial Crisis,Information Technology,Positive Small vs. Negative Small,0.7213485013468648
+Global Financial Crisis,Health Care,Positive Big vs. Negative Big,0.24802864143362013
+Global Financial Crisis,Health Care,Positive Big vs. Positive Small,0.6540423694192988
+Global Financial Crisis,Health Care,Positive Big vs. Negative Small,0.7526276032638977
+Global Financial Crisis,Health Care,Negative Big vs. Positive Small,0.34360104565565075
+Global Financial Crisis,Health Care,Negative Big vs. Negative Small,0.28428107786881884
+Global Financial Crisis,Health Care,Positive Small vs. Negative Small,0.8280599720832306
+Asian Crisis & Oil Collapse,Consumer Discretionary,Positive Big vs. Negative Big,0.0012762959251883907
+Asian Crisis & Oil Collapse,Consumer Discretionary,Positive Big vs. Positive Small,0.18517589789185163
+Asian Crisis & Oil Collapse,Consumer Discretionary,Positive Big vs. Negative Small,0.001920278299291766
+Asian Crisis & Oil Collapse,Consumer Discretionary,Negative Big vs. Positive Small,0.0037010231300805426
+Asian Crisis & Oil Collapse,Consumer Discretionary,Negative Big vs. Negative Small,0.7289531093817812
+Asian Crisis & Oil Collapse,Consumer Discretionary,Positive Small vs. Negative Small,0.002161510000195409
+Asian Crisis & Oil Collapse,Information Technology,Positive Big vs. Negative Big,0.00012534645718963142
+Asian Crisis & Oil Collapse,Information Technology,Positive Big vs. Positive Small,0.13241543065783754
+Asian Crisis & Oil Collapse,Information Technology,Positive Big vs. Negative Small,0.0016028456122396846
+Asian Crisis & Oil Collapse,Information Technology,Negative Big vs. Positive Small,0.004694273888285423
+Asian Crisis & Oil Collapse,Information Technology,Negative Big vs. Negative Small,0.2932099032442128
+Asian Crisis & Oil Collapse,Information Technology,Positive Small vs. Negative Small,0.04559375876422945
+Asian Crisis & Oil Collapse,Health Care,Positive Big vs. Negative Big,0.033106228735558636
+Asian Crisis & Oil Collapse,Health Care,Positive Big vs. Positive Small,0.6133543559547467
+Asian Crisis & Oil Collapse,Health Care,Positive Big vs. Negative Small,0.16511649112695015
+Asian Crisis & Oil Collapse,Health Care,Negative Big vs. Positive Small,0.00039013490808145073
+Asian Crisis & Oil Collapse,Health Care,Negative Big vs. Negative Small,0.34062767705524644
+Asian Crisis & Oil Collapse,Health Care,Positive Small vs. Negative Small,0.006849111478961458
+COVID-19 Pandemic,Consumer Discretionary,Positive Big vs. Negative Big,0.04809673973532032
+COVID-19 Pandemic,Consumer Discretionary,Positive Big vs. Positive Small,0.016410719163063574
+COVID-19 Pandemic,Consumer Discretionary,Positive Big vs. Negative Small,0.011205575839572518
+COVID-19 Pandemic,Consumer Discretionary,Negative Big vs. Positive Small,0.22267503327759697
+COVID-19 Pandemic,Consumer Discretionary,Negative Big vs. Negative Small,0.47849098611603735
+COVID-19 Pandemic,Consumer Discretionary,Positive Small vs. Negative Small,0.27280276262118586
+COVID-19 Pandemic,Information Technology,Positive Big vs. Negative Big,0.009127626769443382
+COVID-19 Pandemic,Information Technology,Positive Big vs. Positive Small,0.023103841146262034
+COVID-19 Pandemic,Information Technology,Positive Big vs. Negative Small,0.008405220090940487
+COVID-19 Pandemic,Information Technology,Negative Big vs. Positive Small,0.20982746203772684
+COVID-19 Pandemic,Information Technology,Negative Big vs. Negative Small,0.29555828224290026
+COVID-19 Pandemic,Information Technology,Positive Small vs. Negative Small,0.6352383464929348
+COVID-19 Pandemic,Health Care,Positive Big vs. Negative Big,0.006582754567857798
+COVID-19 Pandemic,Health Care,Positive Big vs. Positive Small,0.01137803739138966
+COVID-19 Pandemic,Health Care,Positive Big vs. Negative Small,0.027196260955278283
+COVID-19 Pandemic,Health Care,Negative Big vs. Positive Small,0.028916412890444474
+COVID-19 Pandemic,Health Care,Negative Big vs. Negative Small,0.025679565915560774
+COVID-19 Pandemic,Health Care,Positive Small vs. Negative Small,0.7732504381378815
+Inflation & Rate Hikes,Consumer Discretionary,Positive Big vs. Negative Big,0.15424788553349342
+Inflation & Rate Hikes,Consumer Discretionary,Positive Big vs. Positive Small,0.06258772257236389
+Inflation & Rate Hikes,Consumer Discretionary,Positive Big vs. Negative Small,0.004539449803928855
+Inflation & Rate Hikes,Consumer Discretionary,Negative Big vs. Positive Small,0.9107994947137167
+Inflation & Rate Hikes,Consumer Discretionary,Negative Big vs. Negative Small,0.19051882514566099
+Inflation & Rate Hikes,Consumer Discretionary,Positive Small vs. Negative Small,0.10774206672506298
+Inflation & Rate Hikes,Information Technology,Positive Big vs. Negative Big,0.20788245461049537
+Inflation & Rate Hikes,Information Technology,Positive Big vs. Positive Small,0.14656076166610463
+Inflation & Rate Hikes,Information Technology,Positive Big vs. Negative Small,0.03273319120593341
+Inflation & Rate Hikes,Information Technology,Negative Big vs. Positive Small,0.8048766017481164
+Inflation & Rate Hikes,Information Technology,Negative Big vs. Negative Small,0.44559619481785095
+Inflation & Rate Hikes,Information Technology,Positive Small vs. Negative Small,0.20529362075481816
+Inflation & Rate Hikes,Health Care,Positive Big vs. Negative Big,0.6364331061701864
+Inflation & Rate Hikes,Health Care,Positive Big vs. Positive Small,0.22484778180520737
+Inflation & Rate Hikes,Health Care,Positive Big vs. Negative Small,0.1120112395242322
+Inflation & Rate Hikes,Health Care,Negative Big vs. Positive Small,0.42620562670119844
+Inflation & Rate Hikes,Health Care,Negative Big vs. Negative Small,0.14550165855960379
+Inflation & Rate Hikes,Health Care,Positive Small vs. Negative Small,0.2906632499792061
